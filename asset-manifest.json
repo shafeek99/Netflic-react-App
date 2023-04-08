@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflic-react-App/static/css/main.084cffb5.css",
+    "main.js": "/Netflic-react-App/static/js/main.0fbbb339.js",
+    "index.html": "/Netflic-react-App/index.html",
+    "main.084cffb5.css.map": "/Netflic-react-App/static/css/main.084cffb5.css.map",
+    "main.0fbbb339.js.map": "/Netflic-react-App/static/js/main.0fbbb339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084cffb5.css",
+    "static/js/main.0fbbb339.js"
+  ]
+}
